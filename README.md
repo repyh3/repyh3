@@ -1,4 +1,4 @@
-# things i build when i'm bored
+# ok
 
 everything here is strictly for fun. 
 
