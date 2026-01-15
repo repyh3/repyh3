@@ -7,7 +7,7 @@ everything here is strictly decoupled from my professional life.
 - just code that (mostly) runs
 
 my current mental state:</br>
-![chelsea rant](https://chelsea-rant.vercel.app/api/rant)
+<img src="https://chelsea-rant.vercel.app/api/rant" height="160" alt="blue billion pound bottle job (chelsea)" />
 
 ### sites built by me (production and not)
 [BEM UPH's Website](https://bem-uph.vercel.app/) • [Railgun Landing Page](https://railgun.repyh.com/) • [Calculus 2 - Bridge Stress Simulation Model](https://bridge-stress.vercel.app/) • [Indoseek Concept](https://inforq3.vercel.app/) • [Very Old Portfolio](https://repyh-old.vercel.app/) • [Concept Asterisky](https://asterisky.vercel.app/) • [Concept Pylagged](https://pylagged-website.vercel.app/) • [Concept Nightale](https://nightale.vercel.app/) • [Concept PPK Ormawa HMIF 2025](https://ppk-next.vercel.app/)
