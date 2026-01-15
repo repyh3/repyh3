@@ -3,7 +3,7 @@
 everything here is strictly decoupled from my professional life. 
 
 - no clean code
-- things that should *NOT* definitely be associated with my professional image
+- things that should definitely *NOT* be associated with my professional image
 - just code that (mostly) runs
 
 sites built by me (production and not):</br>
