@@ -14,3 +14,6 @@ apps built by me (production and not):</br>
 
 api & npm lib written (and co-written) by me (production and not):</br>
 [Love Live! RESTful API](https://github.com/repyh/lovelive-api) - [flame.db](https://www.npmjs.com/package/flame.db) - [FlameDB](https://www.npmjs.com/package/@flamedb/next) - [objectplus.js (seriously wtf was this)](https://www.npmjs.com/package/objectplus.js) - [global.db (this too)](https://www.npmjs.com/package/global.db) - [reeco (actually broken)](https://www.npmjs.com/package/reeco)
+
+my current mental state:</br>
+![chelsea bottlejobs](https://chelsea-rant.vercel.app/api/rant)
