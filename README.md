@@ -9,6 +9,11 @@ everything here is strictly decoupled from my professional life.
 my current mental state:</br>
 <img src="https://chelsea-rant.vercel.app/api/rant?v=2" height="160" alt="blue billion pound bottle job (chelsea)" />
 
+### maintained stuff (for the most part)
+[Railgun](https://github.com/railgun-discord/railgun) -> **Visual Discord Bot Maker inspired by Unreal Engine's Blueprint.**</br>
+[Goanime-player](https://github.com/repyh3/goanime-player) -> **Desktop app for watching anime designed to mimic the UX of VLC.**</br>
+[TypeGo](https://github.com/repyh/typego) -> **Embedded Typescript runtime for Go.**
+
 ### sites built by me (production and not)
 [BEM UPH's Website](https://bem-uph.vercel.app/) • [Railgun Landing Page](https://railgun.repyh.com/) • [Calculus 2 - Bridge Stress Simulation Model](https://bridge-stress.vercel.app/) • [Indoseek Concept](https://inforq3.vercel.app/) • [Very Old Portfolio](https://repyh-old.vercel.app/) • [Concept Asterisky](https://asterisky.vercel.app/) • [Concept Pylagged](https://pylagged-website.vercel.app/) • [Concept Nightale](https://nightale.vercel.app/) • [Concept PPK Ormawa HMIF 2025](https://ppk-next.vercel.app/)
 
