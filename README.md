@@ -9,6 +9,16 @@ everything here is strictly decoupled from my professional life.
 my current mental state:</br>
 <img src="https://chelsea-rant.vercel.app/api/rant?v=2" height="160" alt="blue billion pound bottle job (chelsea)" />
 
+how decoupled-from-real-life i am
+<div>
+  <a href="https://github.com/repyh3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=repyh3&show_icons=true&line_height=27&count_private=true&theme=dracula&hide_border=true&bg_color=0d1117" alt="repyh's github stats" />
+  </a>
+  <a href="https://github.com/repyh3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=repyh3&hide=html&theme=dracula&hide_border=true&layout=compact&bg_color=0d1117" alt="repyh's top languages" />
+  </a>
+</div>
+
 ### maintained stuff (for the most part)
 [Railgun](https://github.com/railgun-discord/railgun) -> **Visual Discord Bot Maker inspired by Unreal Engine's Blueprint.**</br>
 [Goanime-player](https://github.com/repyh3/goanime-player) -> **Desktop app for watching anime designed to mimic the UX of VLC.**</br>
